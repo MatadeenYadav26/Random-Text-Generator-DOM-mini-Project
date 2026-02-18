@@ -1,0 +1,1 @@
+# Random-Text-Generator-DOM-mini-Project
